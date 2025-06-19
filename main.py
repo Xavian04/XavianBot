@@ -141,4 +141,4 @@ async def on_message(message):
 
 
     
-client.run('your_token_here')
+client.run('8f9b265782bcc229a9b74dcc836af7d0917488cd5abec100d3ddc4ed01cdd431')
