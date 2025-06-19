@@ -141,4 +141,4 @@ async def on_message(message):
 
 
     
-client.run('8f9b265782bcc229a9b74dcc836af7d0917488cd5abec100d3ddc4ed01cdd431')
+client.run('82fc5800edeef590f82c1e307e316f31a539a3d677bf57f4165f08fdaa37b896')
